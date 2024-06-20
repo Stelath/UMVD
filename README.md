@@ -47,7 +47,7 @@ python train.py \
 ```
 
 ## Creating Noisy Natural Video
-To create the noisy sequence of the color video fro different noise types and intensities.
+To create the noisy sequence of the color video for different noise types and intensities.
 ```shell
 python create_noisy_dataset.py
 ```
